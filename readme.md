@@ -8,8 +8,9 @@ The elements I'm going to be using in the HTML file;
 + **`h3` headers for serial numbers`**
 + **An opening paragraph about the restaurant**
 + **And descriptions of the food in small font below the name**
+ ***
 The more _complex_ CSS elements I'm going to be using
 + **`div` and `span`**
-+ **padding and margins**
-+ **text decorations**
++ **`padding` and `margin`**
++ **`text-decoration`**
 
